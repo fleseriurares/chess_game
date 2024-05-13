@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sp3SVd4FuRmJqUP+n1qyRJnFhQo7ddGj04QXYMVs+3iAP4GKRBtFs/mW1A6XCeZAS+S+GmtZXQpqRUL9VS68xg==",
+  "dgSpecHash": "IoL05Y0XzQt/ScmYRHl/dHiXFt9fTY2q3Jfrhmf9LQ9ZtKY9ZxVNgPsiXW5xqdAaxYCplWtIVvbOk/QY49XZUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rares\\Desktop\\GitOk\\ChessGraphics\\ChessGUI.csproj",
+  "projectFilePath": "C:\\Users\\rares\\Desktop\\chess_game\\ChessGraphics\\ChessGUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

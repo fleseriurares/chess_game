@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rares\\Desktop\\GitOk\\ChessGraphics\\ChessGUI.csproj": {}
+    "C:\\Users\\rares\\Desktop\\chess_game\\ChessGraphics\\ChessGUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rares\\Desktop\\GitOk\\ChessBackend\\ChessModel.csproj": {
+    "C:\\Users\\rares\\Desktop\\chess_game\\ChessBackend\\ChessModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rares\\Desktop\\GitOk\\ChessBackend\\ChessModel.csproj",
+        "projectUniqueName": "C:\\Users\\rares\\Desktop\\chess_game\\ChessBackend\\ChessModel.csproj",
         "projectName": "ChessModel",
-        "projectPath": "C:\\Users\\rares\\Desktop\\GitOk\\ChessBackend\\ChessModel.csproj",
+        "projectPath": "C:\\Users\\rares\\Desktop\\chess_game\\ChessBackend\\ChessModel.csproj",
         "packagesPath": "C:\\Users\\rares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rares\\Desktop\\GitOk\\ChessBackend\\obj\\",
+        "outputPath": "C:\\Users\\rares\\Desktop\\chess_game\\ChessBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\rares\\Desktop\\GitOk\\ChessGraphics\\ChessGUI.csproj": {
+    "C:\\Users\\rares\\Desktop\\chess_game\\ChessGraphics\\ChessGUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rares\\Desktop\\GitOk\\ChessGraphics\\ChessGUI.csproj",
+        "projectUniqueName": "C:\\Users\\rares\\Desktop\\chess_game\\ChessGraphics\\ChessGUI.csproj",
         "projectName": "ChessGUI",
-        "projectPath": "C:\\Users\\rares\\Desktop\\GitOk\\ChessGraphics\\ChessGUI.csproj",
+        "projectPath": "C:\\Users\\rares\\Desktop\\chess_game\\ChessGraphics\\ChessGUI.csproj",
         "packagesPath": "C:\\Users\\rares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rares\\Desktop\\GitOk\\ChessGraphics\\obj\\",
+        "outputPath": "C:\\Users\\rares\\Desktop\\chess_game\\ChessGraphics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -94,8 +94,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\rares\\Desktop\\GitOk\\ChessBackend\\ChessModel.csproj": {
-                "projectPath": "C:\\Users\\rares\\Desktop\\GitOk\\ChessBackend\\ChessModel.csproj"
+              "C:\\Users\\rares\\Desktop\\chess_game\\ChessBackend\\ChessModel.csproj": {
+                "projectPath": "C:\\Users\\rares\\Desktop\\chess_game\\ChessBackend\\ChessModel.csproj"
               }
             }
           }

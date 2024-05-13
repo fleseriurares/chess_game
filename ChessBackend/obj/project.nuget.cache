@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mxjpT5mgkGK2+qwwheSl/tpfFhhJnvLzo2XkgIr1AebsZZ2vYB32CVKduaG3N7tYTZjRcz4nfNuAqdiPUdG/wQ==",
+  "dgSpecHash": "SiedPCia5iAID6FXO2OQ1loMl3OTVFrRISrm2h0ofGq9x8ey5fA71btyyLkeJcsdywFexl5rorOxa1g0kKy1yQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rares\\Desktop\\GitOk\\ChessBackend\\ChessModel.csproj",
+  "projectFilePath": "C:\\Users\\rares\\Desktop\\chess_game\\ChessBackend\\ChessModel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

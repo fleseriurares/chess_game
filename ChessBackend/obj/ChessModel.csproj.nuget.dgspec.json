@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rares\\Desktop\\GitOk\\ChessBackend\\ChessModel.csproj": {}
+    "C:\\Users\\rares\\Desktop\\chess_game\\ChessBackend\\ChessModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rares\\Desktop\\GitOk\\ChessBackend\\ChessModel.csproj": {
+    "C:\\Users\\rares\\Desktop\\chess_game\\ChessBackend\\ChessModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rares\\Desktop\\GitOk\\ChessBackend\\ChessModel.csproj",
+        "projectUniqueName": "C:\\Users\\rares\\Desktop\\chess_game\\ChessBackend\\ChessModel.csproj",
         "projectName": "ChessModel",
-        "projectPath": "C:\\Users\\rares\\Desktop\\GitOk\\ChessBackend\\ChessModel.csproj",
+        "projectPath": "C:\\Users\\rares\\Desktop\\chess_game\\ChessBackend\\ChessModel.csproj",
         "packagesPath": "C:\\Users\\rares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rares\\Desktop\\GitOk\\ChessBackend\\obj\\",
+        "outputPath": "C:\\Users\\rares\\Desktop\\chess_game\\ChessBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
